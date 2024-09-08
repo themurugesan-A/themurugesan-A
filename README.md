@@ -14,11 +14,12 @@
 - Embedded Systems
 - Robotics
 - C Programming
-- Graphic Designing
+- Designing
 
 ## 🛠️ Technical Background
 - Diploma in Java
 - Intern - Internet of Things
+- Course - Embedded System Engineering 
 
 ## 🎯 Goals
 - Create 25+ Projects
@@ -33,9 +34,9 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murugesan)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/murugesan)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/murugesan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murugesan-a-78750a214)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/themurugesan-A)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/_murug_esan_)
 
 ---
 
