@@ -68,7 +68,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proteus/proteus-original.svg" alt="proteus" width="45" height="45"/>  
+<img src="https://www.svgrepo.com/svg/373830/matlab/matlab-original.svg" alt="proteus" width="45" height="45"/>  
 
 
 ### 💡 Quotes that Inspire Me
