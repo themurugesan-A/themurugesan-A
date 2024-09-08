@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">
-# I'm Murugesan!
+ I'm Murugesan!
 </h1>
 
 ## 🌍 Location
@@ -56,7 +56,7 @@
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned and Learning </h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used , Learned and Learning </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
