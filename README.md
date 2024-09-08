@@ -1,4 +1,14 @@
-# 👋 Hello, I'm Murugesan!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<h1 align="center">
+# I'm Murugesan!
+</h1>
 
 ## 🌍 Location
 - **Chennai, Tamil Nadu**
@@ -46,9 +56,16 @@
 
 ---
 
-### 📁 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murugesan&repo=project1&theme=radical)](https://github.com/murugesan/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murugesan&repo=project2&theme=radical)](https://github.com/murugesan/project2)
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned and Learning </h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
 
 ---
 
