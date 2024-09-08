@@ -67,9 +67,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
 
+
+### 💡 Quotes that Inspire Me
+> "The only way to do great work is to love what you do." – Steve Jobs
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-### 💡 Quotes that Inspire Me
-> "The only way to do great work is to love what you do." – Steve Jobs
