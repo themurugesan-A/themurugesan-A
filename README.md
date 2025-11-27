@@ -12,6 +12,9 @@
  **Chennai, Tamil Nadu**
 
 ## 💼 Current Position
+  Master's @ VIT
+  
+## 💼 Past Position
  Assistant Systems Engineer at Jasmin Infotech
 
 ## 🎓 Education
