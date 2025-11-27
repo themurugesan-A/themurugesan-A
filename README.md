@@ -4,10 +4,8 @@
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
-</h1>
 
-<h1 align="center">
- I'm Murugesan!
+  I'm Murugesan!
 </h1>
 
 ## 🌍 Location
