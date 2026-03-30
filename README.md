@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:1a1a2e,100:e8ff47&height=140&section=header&text=Hey,%20I'm%20Murugesan&fontSize=36&fontColor=e8ff47&fontAlignY=55&desc=Engineer%20%7C%20Builder%20%7C%20Creator&descAlignY=75&descSize=14&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:1a1a2e,100:e8ff47&height=160&section=header&text=Hey,%20I'm%20Murugesan!&fontSize=38&fontColor=e8ff47&fontAlignY=55&desc=Let's%20Connect%20and%20have%20a%20Chat%20💬&descAlignY=75&descSize=15&descColor=aaaaaa" width="100%"/>
 
 <br/>
 
@@ -21,10 +21,11 @@
 ---
 
 ```
-  Location  →  Chennai, Tamil Nadu
-  Current   →  Master's @ VIT
-  Past      →  Assistant Systems Engineer, Jasmin Infotech
-  Degree    →  B.E. Electronics & Communication
+  📍 Location   →  Chennai, Tamil Nadu
+  🎓 Current    →  Master's @ VIT
+  💼 Past       →  Assistant Systems Engineer, Jasmin Infotech
+  📘 Degree     →  B.E. Electronics & Communication
+  🧠 Also       →  Self-Taught Developer & Designer
 ```
 
 ---
@@ -40,28 +41,38 @@
 
 ---
 
-### 🛠️ Tools, Languages & Tech
+### 🛠️ Technical Background
+
+| Type | Details |
+|---|---|
+| 📜 **Diploma** | Java Programming |
+| 🔬 **Internship** | Internet of Things (IoT) |
+| 📡 **Course** | Embedded System Engineering |
+
+---
+
+### 🧰 Tools, Languages & Tech
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" title="C"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" title="Java"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" title="HTML5"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" title="CSS3"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" title="MySQL"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" title="Git"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" title="Linux"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" title="Figma"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" title="VS Code"/>
 </p>
 
 ---
@@ -83,11 +94,18 @@
 
 ---
 
+### 🎨 Beyond the Terminal
+
+&nbsp; 🎬 Cinema &nbsp;&nbsp; ⚽ Sports &nbsp;&nbsp; 🖊️ Art &nbsp;&nbsp; 📖 Reading
+
+---
+
 ### 💡 A Quote I Live By
 
 > *"The only way to do great work is to love what you do."*
+>
 > — Steve Jobs
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8ff47,50:1a1a2e,100:0d0d0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8ff47,50:1a1a2e,100:0d0d0f&height=110&section=footer" width="100%"/>
